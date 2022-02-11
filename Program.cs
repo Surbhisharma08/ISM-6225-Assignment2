@@ -476,4 +476,9 @@ namespace ISM6225_Assignment_2_Spring_2022
 
 
     }
-
+// Learning Reflection.It was a great learning task. Not using predefined functions helped to groom my skill. 
+//It took 2 hrs to complete the job.Used the concept of splitting the string and a dictionary to split and store the data. 
+//Also used loops to iterate the array and dictionary. Keyvaluepair for dictionary iteration. 
+//Used try catch for exception handling. Used jagged array concept for matrix. 
+//Built a reverse function for reversing the string. 
+//Used the concept of substring to divide the string .
